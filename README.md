@@ -1,0 +1,2 @@
+# Coronavirus
+基于SpringBoot及thymeleaf搭建的疫情信息管理系统
